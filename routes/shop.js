@@ -2,7 +2,7 @@
 
 const express = require('express');
 
-//const rootDir = require('../util/path');
+//const rootDir = require('../util/path');//not require as we are adding controllers
 //const adminData = require('./admin');
 
 const productsController=require('../controllers/products.js');

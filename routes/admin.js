@@ -4,6 +4,7 @@ const express = require('express');
 
 //rootDir form by utility folder will not use now after we create contoller hence we can comment it.
 //const rootDir = require('../util/path');
+
 //path for controller
 const productsController=require('../controllers/products.js');
 
